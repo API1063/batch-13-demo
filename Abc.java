@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.Scanner;
   
-class Even {
+class Abc {
   
     // Main Driver Method
     public static void main(String[] args)
